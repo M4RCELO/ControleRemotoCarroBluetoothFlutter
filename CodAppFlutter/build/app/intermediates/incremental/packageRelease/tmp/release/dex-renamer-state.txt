@@ -1,0 +1,4 @@
+#Wed Nov 27 23:03:52 BRT 2019
+base.0=/home/marcelo/Área de Trabalho/Códigos/Flutter/Mobile/carrinho_controle/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
